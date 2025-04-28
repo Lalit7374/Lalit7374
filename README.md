@@ -7,6 +7,7 @@
 
 ---
 
+🎓 I am a **final-year Computer Science and Engineering student**, graduating in **2026**, with a strong focus on **Software Development**.  
 - 🔭 Currently working on **Blockchain-Based Product Verification System**  
 - 🌱 Deepening expertise in **Backend Engineering, Blockchain, and Cloud Computing**  
 - 👯 Looking to collaborate on **Open Source**, **Decentralized Apps**, and **Scalable Cloud Solutions**  
@@ -85,5 +86,3 @@
 - 🌐 Portfolio: [My Portfolio](https://lalit7374.github.io/My_Portfolio/)
 
 ---
-
-
