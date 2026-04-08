@@ -117,7 +117,7 @@ const lalit = {
 - 🗃️ MongoDB Atlas for optimized queries
 - 📦 Unique product code authentication
 
-<a href="https://github.com/Lalit7374">
+<a href="https://github.com/Lalit7374/Product_Verification_System">
   <img src="https://img.shields.io/badge/🐙_View_Repo-181717?style=for-the-badge&logo=github" alt="🐙 View Repo on GitHub"/>
 </a>
 
@@ -134,7 +134,7 @@ const lalit = {
 - 🎨 Responsive ReactJS interface
 - 🧩 Modular & scalable backend design
 
-<a href="https://github.com/Lalit7374">
+<a href="https://github.com/Lalit7374/TaskPilot">
   <img src="https://img.shields.io/badge/🐙_View_Repo-181717?style=for-the-badge&logo=github" alt="🐙 View Repo on GitHub"/>
 </a>
 
