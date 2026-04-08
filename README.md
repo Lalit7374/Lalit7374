@@ -1,29 +1,32 @@
 <div align="center">
 
 <!-- Welcome GIF -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd5bmt6eHpvbzFkMGxubWt0cmwzOHYxZDZraXFwOW95eHNhaTJoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Welcome" width="480"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd5bmt6eHpvbzFkMGxubWt0cmwzOHYxZDZraXFwOW95eHNhaTJoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="👋 Welcome" width="480"/>
 
 <br/>
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Lalit%20Chowhan&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%98%95%20%7C%20Open%20Source%20%7C%20SDE%202026&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Lalit%20Chowhan&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%98%95%20%7C%20Open%20Source%20%7C%20SDE%202026&descAlignY=62&descSize=17" alt="🌊 Lalit Chowhan — Full Stack Engineer ☕ | Open Source | SDE 2026" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=%E2%98%95+Fueled+by+Coffee+%26+Clean+Code;%F0%9F%9A%80+Full+Stack+Engineer+%7C+MERN+Stack;%F0%9F%8C%90+GSSoC+2025+Open+Source+Contributor;%F0%9F%A7%A0+500%2B+DSA+Problems+on+LeetCode;%F0%9F%94%A5+Building+Scalable+Web+Applications;%F0%9F%8E%93+Final+Year+CSE+%E2%80%94+Graduating+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=%E2%98%95+Fueled+by+Coffee+%26+Clean+Code;%F0%9F%9A%80+Full+Stack+Engineer+%7C+MERN+Stack;%F0%9F%8C%90+GSSoC+2025+Open+Source+Contributor;%F0%9F%A7%A0+500%2B+DSA+Problems+on+LeetCode;%F0%9F%94%A5+Building+Scalable+Web+Applications;%F0%9F%8E%93+Final+Year+CSE+%E2%80%94+Graduating+2026" alt="⌨️ Typing: Fueled by Coffee & Clean Code | Full Stack Engineer | GSSoC 2025 | 500+ LeetCode | Graduating 2026" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Lalit7374&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Lalit7374?label=Followers&style=for-the-badge&color=0e75b6&logo=github" />
-<img src="https://img.shields.io/badge/Open%20To-SDE%20Roles-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<!-- Badges with emoji fallbacks in alt text -->
+<img src="https://komarev.com/ghpvc/?username=Lalit7374&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="👁️ Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Lalit7374?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="👥 GitHub Followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-SDE%20Roles-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="✅ Open To SDE Roles" />
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="💻 Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ## ☕ About Me
 
@@ -49,29 +52,33 @@ const lalit = {
 <div align="center">
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+⚛️ &nbsp;![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "⚛️ React")
+&nbsp;🟨 &nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "🟨 JavaScript")
+&nbsp;🟧 &nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "🟧 HTML5")
+&nbsp;🔵 &nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "🔵 CSS3")
+&nbsp;🟣 &nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "🟣 Bootstrap")
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+🟢 &nbsp;![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white "🟢 Node.js")
+&nbsp;⬛ &nbsp;![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white "⬛ Express.js")
+&nbsp;🔐 &nbsp;![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white "🔐 JWT Auth")
+&nbsp;☕ &nbsp;![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white "☕ Java")
+&nbsp;🐍 &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "🐍 Python")
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+🍃 &nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white "🍃 MongoDB")
+&nbsp;🐬 &nbsp;![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "🐬 MySQL")
+
+### 🧰 Tools & DevOps
+
+🔴 &nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "🔴 Git")
+&nbsp;🐙 &nbsp;![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white "🐙 GitHub")
+&nbsp;🐳 &nbsp;![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white "🐳 Docker")
+&nbsp;🟠 &nbsp;![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white "🟠 Postman")
+&nbsp;🔷 &nbsp;![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "🔷 VS Code")
 
 </div>
 
@@ -88,14 +95,14 @@ const lalit = {
 ### 🔐 Product Verification System
 > *Fighting counterfeits with clean code*
 
-![Stack](https://img.shields.io/badge/React-Node.js-Express-MongoDB-blue?style=flat-square)
+`⚛️ React` `🟢 Node.js` `⬛ Express` `🍃 MongoDB`
 
 - 🔒 JWT auth + Role-Based Access Control
 - ⚡ RESTful APIs for real-time verification
 - 🗃️ MongoDB Atlas for optimized queries
 - 📦 Unique product code authentication
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lalit7374)
+[![🐙 View on GitHub](https://img.shields.io/badge/🐙_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lalit7374)
 
 </td>
 <td width="50%" valign="top">
@@ -103,14 +110,14 @@ const lalit = {
 ### ✅ TaskPilot
 > *Where team productivity takes off*
 
-![Stack](https://img.shields.io/badge/React-Node.js-Express-MongoDB-green?style=flat-square)
+`⚛️ React` `🟢 Node.js` `⬛ Express` `🍃 MongoDB`
 
 - 📋 Task assignment & timesheet management
 - 🕐 Attendance tracking system
 - 🎨 Responsive ReactJS interface
 - 🧩 Modular backend architecture
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lalit7374)
+[![🐙 View on GitHub](https://img.shields.io/badge/🐙_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lalit7374)
 
 </td>
 </tr>
@@ -126,13 +133,13 @@ const lalit = {
 
 ```
          ╔══════════════════════════════════════════════════════╗
-    🟠   ║  GirlScript Summer of Code — GSSoC 2025             ║
+  🟠     ║  GirlScript Summer of Code — GSSoC 2025             ║
          ║  Features · Bug Fixes · Code Quality Improvements   ║
          ╠══════════════════════════════════════════════════════╣
-    🔵   ║  Google Summer of Code — GSoC 2025                  ║
+  🔵     ║  Google Summer of Code — GSoC 2025                  ║
          ║  Community Bonding Participant                       ║
          ╠══════════════════════════════════════════════════════╣
-    🟢   ║  Open Source Connect India                           ║
+  🟢     ║  Open Source Connect India                           ║
          ║  Code Contributions · Issue Fixes · Git Collab      ║
          ╚══════════════════════════════════════════════════════╝
 ```
@@ -145,12 +152,12 @@ const lalit = {
 
 <div align="center">
 
-| 🏅 Achievement | Details |
-|---|---|
-| 🧠 **LeetCode** | 500+ problems — Arrays, Trees, Graphs, DP, Linked Lists |
-| ☕ **Infosys** | Core Java Certification |
-| 📬 **Postman** | API Fundamentals Certification |
-| 🤖 **AI/ML** | Prompt Engineering Certification |
+| 🏅 | Achievement | Details |
+|---|---|---|
+| 🧠 | **LeetCode** | 500+ problems — Arrays, Trees, Graphs, DP, Linked Lists |
+| ☕ | **Infosys** | Core Java Certification |
+| 🟠 | **Postman** | API Fundamentals Certification |
+| 🤖 | **AI / ML** | Prompt Engineering Certification |
 
 </div>
 
@@ -160,12 +167,15 @@ const lalit = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lalit7374&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lalit7374&theme=tokyonight&hide_border=true" />
+<!-- Stats card — fallback text: 📊 GitHub Stats for Lalit7374 -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lalit7374&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="📊 Lalit's GitHub Stats — commits, PRs, issues, stars" />
+<!-- Streak card — fallback text: 🔥 GitHub Streak -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lalit7374&theme=tokyonight&hide_border=true" alt="🔥 GitHub Streak — current and longest streak" />
 
 <br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit7374&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- Top languages — fallback text: 💬 Top Languages -->
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit7374&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="💬 Top Languages — JavaScript, Python, Java, C" />
 
 </div>
 
@@ -173,16 +183,18 @@ const lalit = {
 
 ## 🏅 Trophies
 
+<!-- Trophy shelf — fallback: 🏆 GitHub Trophies -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lalit7374&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Lalit7374&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="🏆 GitHub Trophies — Stars, Commits, PRs, Issues, Followers, Repos, MultiLanguage" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
+<!-- Activity graph — fallback: 📈 Contribution Activity Graph -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalit7374&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalit7374&theme=tokyo-night&hide_border=true&area=true" alt="📈 Lalit's GitHub Contribution Activity Graph" width="95%"/>
 </div>
 
 ---
@@ -190,12 +202,12 @@ const lalit = {
 ## 🎯 2026 Roadmap
 
 ```
- [✅] Contribute to GSSoC & GSoC                ████████████ Done
- [✅] 500+ LeetCode problems                    ████████████ Done
- [🔄] Master Docker & CI/CD                    ██████░░░░░░ In Progress
- [🔄] Cloud Certification (GCP / AWS)          ████░░░░░░░░ Upcoming
- [🔄] Land Full Stack SDE Role                 ██████████░░ Almost There
- [🔄] Ship 2 more production projects          ██░░░░░░░░░░ Planning
+ ✅  Contribute to GSSoC & GSoC                ████████████  Done
+ ✅  500+ LeetCode problems                    ████████████  Done
+ 🔄  Master Docker & CI/CD                    ██████░░░░░░  In Progress
+ 🔄  Cloud Certification (GCP / AWS)          ████░░░░░░░░  Upcoming
+ 🔄  Land Full Stack SDE Role                 ██████████░░  Almost There
+ 🔄  Ship 2 more production projects          ██░░░░░░░░░░  Planning
 ```
 
 ---
@@ -204,10 +216,10 @@ const lalit = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://lalit7374.github.io/My_Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit-chowhan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lalit7374)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+🌐 &nbsp;[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://lalit7374.github.io/My_Portfolio/)
+&nbsp;💼 &nbsp;[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/lalit-chowhan)
+&nbsp;🐙 &nbsp;[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logoColor=white)](https://github.com/Lalit7374)
+&nbsp;🧠 &nbsp;[![LeetCode](https://img.shields.io/badge/🧠_LeetCode-FFA116?style=for-the-badge&logoColor=black)](https://leetcode.com/)
 
 <br/>
 
@@ -219,7 +231,8 @@ const lalit = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<!-- Dynamic quote card — fallback: 💬 "Any application that can be written in JavaScript, will eventually be written in JavaScript." — Atwood's Law -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt='💬 Dev Quote of the Day' />
 
 <br/><br/>
 
@@ -227,6 +240,7 @@ const lalit = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- Footer wave — fallback: 🌊 footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="🌊" width="100%"/>
 
 </div>
